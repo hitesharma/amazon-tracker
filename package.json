@@ -19,6 +19,7 @@
   "homepage": "https://github.com/hitesharma/price-monitor#readme",
   "dependencies": {
     "cron": "^1.8.2",
+    "prompts": "^2.3.2",
     "puppeteer": "^5.3.1"
   }
 }
